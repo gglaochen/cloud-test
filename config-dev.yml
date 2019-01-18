@@ -1,0 +1,9 @@
+label:  provider-dev
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql:///testdb?useSSL=true
+    username: root
+    password: 123
+  application:
+    name: cloud-provider
