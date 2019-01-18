@@ -5,5 +5,3 @@ spring:
     url: jdbc:mysql:///testdb?useSSL=true
     username: root
     password: 123
-  application:
-    name: cloud-provider
