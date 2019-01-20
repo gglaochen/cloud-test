@@ -3,8 +3,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql:///testdb?useSSL=true
-    username: '{cipher}AQAWiF9aeEzSuMA817LbtouK00fzeG0rIeBaBpudqBfPy6tcqAFY/7zE9lAJTrIl8cpLVe0Bf+2r2zeLe1dWTWOWw+yPNOrQYKeDFgLq8i6DT6ogTMTJOKDOyX3pZb7/zJHutm/r71nlYAfm6cKxLtSwtA30EL0xd0W4OcJX10uj2Wo09SGODe69VesjeXRX2ctVy85IHJF1ypaOW+7tnZSpM
-ck9OaDDoMkIvwRwN5R0U6C+GFQcd0OzojdDGCk4eibdZP0/SUP+PCFyE+LTAm/imDSFmIP+ffrnot1U6/+5SeG0Q8I2b8ieUSNHZyPFP48X6Dzl6ARDainKjmOBiXvmvqgIQ1RQJ8qdTk5dTwzxOaD4aA/LZitxYlraHJvqpx8='
+    username: '{cipher}AQADitNE2p9AULMbICtDewLxRZ31IzjQTDOpspraQDpCVASlthKJFiW1inKVv0KITie0V9f9QT3RvuQ9dhJ1M/i67c7gSjINxJKER9ZcJao/4zJGs5smucuFBOMFhUZ8XqyTnQUuJwmXoMu948zDPzU6l3CSBgkaQbWF0d1Iq3J2Esz1yl+GCD/bIGrpkhoMmCIp75TzCsAdKYJBiDgCwHGbh
+CO/v5kxsqtQ9RLXVgMiFjeFe7J5o7Bj9karJOD2ZGL8tBtftUlH957orwzYIs1CholDnj1BI+FJhcZ4IAQ0r6JzzPB4/8CSMmowjbZl0WUOhhE2Zf6uLXwvtnMp+Xs+Vg8B0iKIl+CT0gSFrLW3vA5gfuIIVD3gDL/ofDe1wOU='
     password: 123
   application:
     name:cloud-provider
