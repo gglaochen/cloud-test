@@ -6,7 +6,7 @@ spring:
     username: root
 application:
   name:cloud-provider
-rabbitmq:
+  rabbitmq:
     port: 15672
     host: 192.168.146.220
     username: rabbit
