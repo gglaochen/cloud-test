@@ -8,7 +8,7 @@ spring:
   application:
     name:cloud-provider
   rabbitmq:
-    port: 15672
+    port: 5672
     host: 192.168.146.220
     username: rabbit
     password: rabbit
