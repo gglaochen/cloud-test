@@ -4,3 +4,10 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql:///testdb?useSSL=true
     username: root
+application:
+  name:cloud-provider
+rabbitmq:
+    port: 5672
+    host: 192.168.146.220
+    username: rabbit
+    password: rabbit
