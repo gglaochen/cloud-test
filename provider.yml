@@ -3,8 +3,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql:///testdb?useSSL=true
-    username: '{cipher}AQAWiF9aeEzSuMA817LbtouK00fzeG0rIeBaBpudqBfPy6tcqAFY/7zE9lAJTrIl8cpLVe0Bf+2r2zeLe1dWTWOWw+yPNOrQYKeDFgLq8i6DT6ogTMTJOKDOyX3pZb7/zJHutm/r71nlYAfm6cKxLtSwtA30EL0xd0W4OcJX10uj2Wo09SGODe69VesjeXRX2ctVy85IHJF1ypaOW+7tnZSpM
-ck9OaDDoMkIvwRwN5R0U6C+GFQcd0OzojdDGCk4eibdZP0/SUP+PCFyE+LTAm/imDSFmIP+ffrnot1U6/+5SeG0Q8I2b8ieUSNHZyPFP48X6Dzl6ARDainKjmOBiXvmvqgIQ1RQJ8qdTk5dTwzxOaD4aA/LZitxYlraHJvqpx8='
+    username: '{cipher}2e4b43dddcdf8b8e416c230c5862515969b61a9ae1f00a023d62bf56fee30413'
     password: 123
   application:
     name:cloud-provider
