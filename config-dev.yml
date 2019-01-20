@@ -1,4 +1,4 @@
-label:  provider-dev
+label:  config-dev
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
@@ -6,4 +6,4 @@ spring:
     username: root
     password: 123
   application:
-    name: cloud-provider
+    name: provider
