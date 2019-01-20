@@ -6,4 +6,4 @@ spring:
     username: root
     password: 123
   application:
-    name: provider  #git文件的名称
+    name: provider  #zk注册名
