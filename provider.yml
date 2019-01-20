@@ -1,4 +1,4 @@
-label:  provider-bate
+label:  provider-beta
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
