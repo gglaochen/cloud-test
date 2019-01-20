@@ -3,7 +3,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql:///testdb?useSSL=true
-    username: root
+    username: '{cipher}2e4b43dddcdf8b8e416c230c5862515969b61a9ae1f00a023d62bf56fee30413'
     password: 123
   application:
     name:cloud-provider
