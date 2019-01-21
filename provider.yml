@@ -6,7 +6,7 @@ spring:
     username: '{cipher}AQBuBBS1wyAurJ3sg+pkBHZ/T4AkYV/qX9m4RIwLPRediInmhkaFS7+lWAbFOjK+X8mmLBdNxFlXMTx8ie5lYKQOVQv6N7J9uak/yIiNRz52Rkn7+nXVbaPSrrEceGuM6Nw3J8+lHSiZI0ROveAN96jlgn9SuU/69xBNJGCNJu/eAZbZKt/Jzy0pg563Kw9SJY93RAnnrsrRxp148SfJCNS2tWsLbhX40p+ykUEDfa3ImBJhNWl4/uZhGKzE22P3zhrkAkhHevI0kn5U0B77Fetrj48IPn0BbjoKGuSDU7pSlzf4U0TV2vAIHrtJBaKLdDde8r0sp0llO7fSb0eyE4qd5+rjUvFf/TnsCJQ4IN26y4WCBJxf/zgIkOUanpLgIac='
     password: 123
   application:
-    name:cloud-provider
+    name: cloud-provider
   rabbitmq:
     port: 5672
     host: 192.168.146.220
